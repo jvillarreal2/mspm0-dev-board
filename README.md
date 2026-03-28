@@ -22,16 +22,14 @@ Not final — known improvements for REV B:
 - Shorten HFXIN crystal trace (currently 14mm, target <5mm)
 - Review CC1/CC2 pull-down resistor values for USB-PD compatibility
 
-## 📸 Board Preview
-
 ### 3D View
-![3D Render](images/MPSM0 PCB.png)
+![3D Render](images/3d_render.png)
 
 ### PCB Layout
 ![PCB Layout](images/pcb_layout.png)
 
 ### Top Layer
-![Top Layer](images/PCB layer_1.png)
+![Top Layer](images/PCB_layer_1.png)
 
 ### Bottom Layer
-![Bottom Layer](images/PCB layer_2.png)
+![Bottom Layer](images/PCB_layer_2.png)

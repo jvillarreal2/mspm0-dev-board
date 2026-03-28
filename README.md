@@ -15,3 +15,9 @@ custom 2-layer development board designed in KiCad.
 ## Tools
 - KiCad 10.0
 - JLCPCB for fabrication
+
+## Status
+REV A — Design complete, awaiting fabrication.
+Not final — known improvements for REV B:
+- Shorten HFXIN crystal trace (currently 14mm, target <5mm)
+- Review CC1/CC2 pull-down resistor values for USB-PD compatibility
